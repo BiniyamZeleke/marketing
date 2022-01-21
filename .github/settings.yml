@@ -11,7 +11,7 @@ repository:
   description: description of repo
 
   # A URL with more information about the repository
-  homepage: https://github.com/BiniyamZeleke/marketing/edit/main/.github/settings.yml
+  homepage: https://github.com/BiniyamZeleke/marketing.git
 
   # A comma-separated list of topics to set on the repository
   topics: github, probot
